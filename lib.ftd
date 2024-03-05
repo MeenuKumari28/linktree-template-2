@@ -83,8 +83,10 @@ radius: $ds.radius.large
 background.solid: $ds.colors.background.base
 inset: $ds.spaces.inset-square.medium
 
--- ds.row:
-spacing: $ds.spaces.horizontal-gap.small
+-- ftd.image:
+src: $linktree.avatar
+width.fixed.px: 145
+border-radius.px: 16
 
 -- ds.column:
 width.fixed.px: 150
@@ -97,13 +99,6 @@ color: $ds.colors.text-strong
 -- ds.copy-small: $linktree.body
 
 -- end: ds.column
-
--- ftd.image:
-src: $linktree.avatar
-width.fixed.px: 145
-border-radius.px: 16
-
--- end: ds.row
 
 -- ds.column:
 width: hug-content
