@@ -85,24 +85,22 @@ inset: $ds.spaces.inset-square.medium
 
 -- ftd.image:
 src: $linktree.avatar
-width.fixed.px: 145
+width.fixed.px: 120
 border-radius.px: 16
 
 -- ds.column:
-width.fixed.px: 150
-align-content: left
 
 -- ds.heading-medium: $linktree.name
 color: $ds.colors.text-strong
 ;;style: regular
 
 -- ds.copy-small: $linktree.body
+align: center
 
 -- end: ds.column
 
 -- ds.column:
-width: hug-content
-border: $ds.borders.left.small
+border: $ds.borders.top.small
 border-color: $ds.colors.border
 height: fill-container
 radius: $ds.radius.zero
@@ -149,8 +147,8 @@ string social-link-url-4:
 
 -- ds.column:
 width.fixed.px if { ftd.device != "mobile" }: 395
-inset: $ds.spaces.inset-wide.large
-
+inset if { ftd.device != "mobile" }: $ds.spaces.inset-wide.large
+align-content: top-center
 -- ds.secondary-button: $linktree-social-detail.social-link-text-1
 link: $linktree-social-detail.social-link-url-1
 rounded: true

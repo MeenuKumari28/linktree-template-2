@@ -52,13 +52,13 @@
     },
     "lib.ftd": {
       "name": "lib.ftd",
-      "checksum": "A52301A2099A0323142D86C41DD43A37FB89037F09CAC896AF6AD3E6E5FEF05C",
-      "size": 3848
+      "checksum": "3139222E93195C1EED87E0151D8E1865C06007E64D61A1F97723A2C2B163D203",
+      "size": 3857
     },
     "themecolors.ftd": {
       "name": "themecolors.ftd",
-      "checksum": "80FA1E481B3010190844F912F5BAAB54EF776A1DA0305BC59D118A5A75FAE2E5",
-      "size": 6482
+      "checksum": "A42F855A7DDEA43CBE33986DE7E3E08B574BE9D694BF7D819404975340E5B955",
+      "size": 6480
     },
     "vercel.json": {
       "name": "vercel.json",
@@ -67,5 +67,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/meenukumari28/linktree-template-2/zip/refs/heads/main",
-  "checksum": "B733970C7EB1C44789A48F1BCF7CBA58D9AC9A8E97D673533F30DC65DC2AF6F5"
+  "checksum": "871CE328AF11EE0BC93E9D83FF69DA4B0EB5D1E394D8C71AEAA8C21E8CA24A9E"
 }
