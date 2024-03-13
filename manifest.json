@@ -35,10 +35,15 @@
       "checksum": "A227CF22E798ACFB2D01B6352FC22A28047444F028AF05440C6CE6F9499C0EDF",
       "size": 15494
     },
+    "assets/linktree-2.PNG": {
+      "name": "assets/linktree-2.PNG",
+      "checksum": "FCC50FF81731EB98C2807A9D092E476E8412C44A292BC6B8186D9A0BBD681978",
+      "size": 1010011
+    },
     "ds.ftd": {
       "name": "ds.ftd",
-      "checksum": "63859360BEF78972B9D3BB327BBFA17FB96A5E85E30BF38C251AAE008405DEB9",
-      "size": 889
+      "checksum": "E8F5A774D6F078D73570ED6DEE5F333CCF7CB47D5E1D6FA8BE1FBA91232C4F88",
+      "size": 903
     },
     "favicon.ico": {
       "name": "favicon.ico",
@@ -47,8 +52,8 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "0998A733A8DB12829CD8F85718EEF219B2090F0467A1A2950E28A2279612AB15",
-      "size": 472
+      "checksum": "F8661D9CA1523492D47CD0202949D4F5DDA8C6F595BA0B45703A7D3AA78B8AC3",
+      "size": 1094
     },
     "lib.ftd": {
       "name": "lib.ftd",
@@ -67,5 +72,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/meenukumari28/linktree-template-2/zip/refs/heads/main",
-  "checksum": "871CE328AF11EE0BC93E9D83FF69DA4B0EB5D1E394D8C71AEAA8C21E8CA24A9E"
+  "checksum": "32A525C9C1431132BF1889995E1E38FD8DBED16CD55563D3C7280694BE3928EA"
 }
