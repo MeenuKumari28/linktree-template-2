@@ -57,8 +57,8 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "A1D8A25FD8CCA084A2ADF89E96098650A9EB2B57C87A42DFC64835E56B9B8D35",
-      "size": 1061
+      "checksum": "17EB99FDB98A3D9EAA2941371666A67E9D97BBE7913FFA6F28F38EB72B238FAB",
+      "size": 1046
     },
     "lib.ftd": {
       "name": "lib.ftd",
@@ -77,5 +77,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/meenukumari28/linktree-template-2/zip/refs/heads/main",
-  "checksum": "B0F7FECF1AED31108785A9CC339A232E5FF0E36623F118F3CF06165AB6DF932C"
+  "checksum": "F335D4335C91EFC373E33A8048B39885148B341D89138CA9463F137BEA90E462"
 }
